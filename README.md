@@ -1,4 +1,7 @@
-![alt text](https://github.com/nittaya2mu/DR-Screening_CNN/blob/main/fish_rice_soup_tea_800JPY.jpg?raw=true,width=150)
+<!-- ![alt text](https://github.com/nittaya2mu/DR-Screening_CNN/blob/main/fish_rice_soup_tea_800JPY.jpg?raw=true,width=150)-->
+<p align="center">
+  <img src="(https://github.com/nittaya2mu/DR-Screening_CNN/blob/main/fish_rice_soup_tea_800JPY.jpg?raw=true)" width="200" title="hover text">
+</p>
 # DR-Screening_CNN
 diabetic retinopathy screening using CNN
 This project aims to study on diabetic retinopathy prior screening algorithm using CNN.
