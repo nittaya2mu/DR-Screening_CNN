@@ -18,7 +18,8 @@ This project aims to study on diabetic retinopathy prior screening algorithm usi
 # Code Book Descriptions.
   * NLMD & CLAHE - [preprocess_real.ipynb](/preprocess_real.ipynb)
 
-<p align="center"><img src="https://th.bing.com/th/id/R.b1993d56b9eca21776b32cb3f175b58f?rik=bMtsN7cSPcBJxw&riu=http%3a%2f%2flocnguyen.com.au%2fwp-content%2fuploads%2f2015%2f12%2fPage-Break.png&ehk=zruL%2f8GBWo7gw6rqEZi4hh8B7EToMPDcCof39ly%2bJdg%3d&risl=&pid=ImgRaw&r=0" height="30" /></p>
-
+<br />
+<br />
+<img src="https://th.bing.com/th/id/R.b1993d56b9eca21776b32cb3f175b58f?rik=bMtsN7cSPcBJxw&riu=http%3a%2f%2flocnguyen.com.au%2fwp-content%2fuploads%2f2015%2f12%2fPage-Break.png&ehk=zruL%2f8GBWo7gw6rqEZi4hh8B7EToMPDcCof39ly%2bJdg%3d&risl=&pid=ImgRaw&r=0" height="50" />
 <sup>Powered by DR Team, Faculty of Science and Engineering, Kasetsart University, Sakon Nakhon, Thailand</sup><br />
 <sup>Contact us: [DR Team Contact](mailto:nittaya.mu@ku.th)</sup>
