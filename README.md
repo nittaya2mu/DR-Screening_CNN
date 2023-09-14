@@ -1,4 +1,4 @@
-![alt text](https://github.com/nittaya2mu/DR-Screening_CNN/blob/main/fish_rice_soup_tea_800JPY.jpg?raw=true,width=150)
+![alt text](https://github.com/nittaya2mu/DR-Screening_CNN/blob/main/kuse_startup_logo.jpg?raw=true,width=150)
 
 # DR-Screening_CNN
 diabetic retinopathy screening using CNN
