@@ -7,4 +7,4 @@
   * (Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting, 2015.)[https://arxiv.org/pdf/1506.04214.pdf]
 
 # Papers on CNN LSTM with DR Classification
-  * 
+  * S. R. Arumugam, E. A. Devi, V. Rajeshram, B. R, S. G. Karuppasamy and S. V. Kumar, "A Robust Approach based on CNN-LSTM Network for the identification of diabetic retinopathy from Fundus Images," 2022 International Conference on Electronic Systems and Intelligent Computing (ICESIC), Chennai, India, 2022, pp. 152-156, doi: 10.1109/ICESIC53714.2022.9783570. (Fulltext PDF)[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9783570]
