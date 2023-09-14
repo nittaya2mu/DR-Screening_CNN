@@ -6,7 +6,7 @@ This project aims to study on diabetic retinopathy prior screening algorithm usi
   * Convert RGB into HSV, YCrCb, and LAB
   * Texture feature extraction - GLCM & LBP
   * Model construction - SVM, Decision Tree, Logistic Regression
-  * expand experiments on CNN + LSTM
+  * Extended experiments on CNN + LSTM
 
 # Code Book Descriptions.
   * NLMD & CLAHE - preprocess_real.ipynb
