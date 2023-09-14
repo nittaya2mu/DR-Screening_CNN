@@ -17,6 +17,15 @@ This project aims to study on diabetic retinopathy prior screening algorithm usi
  * [Digital Image Processing Basics](https://www.geeksforgeeks.org/digital-image-processing-basics/) source: Geeksforgeeks
 # Code Book
   * NLMD & CLAHE - [preprocess_real.ipynb](/preprocess_real.ipynb)
+    1.ใช้เทคนิคภาพขาวดำ
+      1.1 แยกสีเขียว green channel
+      1.2 ลด noise (Non-local Means Denoising)
+      1.3 ปรับแสง (Contrast Limited Adaptive Histogram Equalization-CLAHE)
+
+      รันเฉพาะ 01 without_augmentation ทำขั้นตอน 1.1-1.3
+      test (normal:924 / abnormal:340)
+      train (normal:4,312 / abnormal:1,588)
+      valid (normal:923 / abnormal:341)
 
 <br />
 <br />
