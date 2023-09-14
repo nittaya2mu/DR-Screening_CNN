@@ -9,8 +9,8 @@ This project aims to study on diabetic retinopathy prior screening algorithm usi
   * Extended experiments on CNN + LSTM
 
 # Digital Image Processing Tutorial
- * Colab : [Python Image Processing Tutorial (Using OpenCV)]: https://colab.research.google.com/drive/1zW4fspYezZ4VIdg0B4y00tNdZtS6hiXu?usp=sharing
- * [Digital Image Processing Basics]: https://www.geeksforgeeks.org/digital-image-processing-basics/
+ * Colab : [Python Image Processing Tutorial (Using OpenCV)]:https://colab.research.google.com/drive/1zW4fspYezZ4VIdg0B4y00tNdZtS6hiXu?usp=sharing
+ * [Digital Image Processing Basics]:https://www.geeksforgeeks.org/digital-image-processing-basics/
 # Code Book Descriptions.
-  * NLMD & CLAHE - [preprocess_real.ipynb]: https://github.com/nittaya2mu/DR-Screening_CNN/blob/main/preprocess_real.ipynb
+  * NLMD & CLAHE - [preprocess_real.ipynb]:https://github.com/nittaya2mu/DR-Screening_CNN/blob/main/preprocess_real.ipynb
   * [link text itself]: http://www.reddit.com
