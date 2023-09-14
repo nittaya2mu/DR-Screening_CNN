@@ -17,6 +17,8 @@ This project aims to study on diabetic retinopathy prior screening algorithm usi
  * [Digital Image Processing Basics](https://www.geeksforgeeks.org/digital-image-processing-basics/) source: Geeksforgeeks
 # Code Book Descriptions.
   * NLMD & CLAHE - [preprocess_real.ipynb](/preprocess_real.ipynb)
- 
+
+<p align="center"><img src="https://www.msbrightspotsofhope.org/wp-content/uploads/2017/11/line-clipart-page-break-7.png" /></p>
+
 <sup>Powered by DR Team, Faculty of Science and Engineering, Kasetsart University, Sakon Nakhon, Thailand</sup><br />
 <sup>Contact us: [DR Team Contact](mailto:nittaya.mu@ku.th)</sup>
