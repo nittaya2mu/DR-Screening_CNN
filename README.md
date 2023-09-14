@@ -16,17 +16,14 @@ This project aims to study on diabetic retinopathy prior screening algorithm usi
  * Colab : [Python Image Processing Tutorial Using OpenCV](https://colab.research.google.com/drive/1zW4fspYezZ4VIdg0B4y00tNdZtS6hiXu?usp=sharing)
  * [Digital Image Processing Basics](https://www.geeksforgeeks.org/digital-image-processing-basics/) source: Geeksforgeeks
 # Code Book
-  * NLMD & CLAHE - [preprocess_real.ipynb](/preprocess_real.ipynb)
-    1.ใช้เทคนิคภาพขาวดำ
-      1.1 แยกสีเขียว green channel
-      1.2 ลด noise (Non-local Means Denoising)
-      1.3 ปรับแสง (Contrast Limited Adaptive Histogram Equalization-CLAHE)
+  * NLMD & CLAHE - [NLMD.ipynb](/NLM.ipynb)<br />
+    1.ใช้เทคนิคภาพขาวดำ<br />
+      1.1 แยกสีเขียว green channel<br />
+      1.2 ลด noise (Non-local Means Denoising)<br />
+      1.3 ปรับแสง (Contrast Limited Adaptive Histogram Equalization-CLAHE)<br />
 
-      รันเฉพาะ 01 without_augmentation ทำขั้นตอน 1.1-1.3
-      test (normal:924 / abnormal:340)
-      train (normal:4,312 / abnormal:1,588)
-      valid (normal:923 / abnormal:341)
-
+      รันเฉพาะ 01 without_augmentation ทำขั้นตอน 1.1-1.3<br />
+      
 <br />
 <br />
 <img src="https://th.bing.com/th/id/R.b1993d56b9eca21776b32cb3f175b58f?rik=bMtsN7cSPcBJxw&riu=http%3a%2f%2flocnguyen.com.au%2fwp-content%2fuploads%2f2015%2f12%2fPage-Break.png&ehk=zruL%2f8GBWo7gw6rqEZi4hh8B7EToMPDcCof39ly%2bJdg%3d&risl=&pid=ImgRaw&r=0" height="50" />
