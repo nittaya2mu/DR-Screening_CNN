@@ -1,5 +1,5 @@
 <!--![alt text](https://github.com/nittaya2mu/DR-Screening_CNN/blob/main/kuse_startup_logo.jpg?raw=true,width=150)-->
-<p align="center"><img src="https://github.com/nittaya2mu/DR-Screening_CNN/blob/main/figure1.png" width="250" /></p>
+<p align="center"><img src="https://github.com/nittaya2mu/DR-Screening_CNN/blob/main/figure1.png" /></p>
 
 # DR-Screening_CNN
 diabetic retinopathy screening using CNN
