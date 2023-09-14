@@ -8,5 +8,8 @@ This project aims to study on diabetic retinopathy prior screening algorithm usi
   * Model construction - SVM, Decision Tree, Logistic Regression
   * Extended experiments on CNN + LSTM
 
+# Digital Image Processing Tutorial
+ * Colab : Python Image Processing Tutorial (Using OpenCV) - https://colab.research.google.com/drive/1zW4fspYezZ4VIdg0B4y00tNdZtS6hiXu?usp=sharing
+ * ref: https://www.geeksforgeeks.org/digital-image-processing-basics/
 # Code Book Descriptions.
   * NLMD & CLAHE - preprocess_real.ipynb
