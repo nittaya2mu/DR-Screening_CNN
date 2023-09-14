@@ -1,4 +1,4 @@
-[CNN Long Short-Term Memory Networks](https://machinelearningmastery.com/cnn-long-short-term-memory-networks/#:~:text=The%20CNN%20LSTM%20architecture%20involves%20using%20Convolutional%20Neural,textual%20descriptions%20from%20sequences%20of%20images%20%28e.g.%20videos%29.)
+[CNN Long Short-Term Memory Networks](https://machinelearningmastery.com/cnn-long-short-term-memory-networks/#:~:text=The%20CNN%20LSTM%20architecture%20involves%20using%20Convolutional%20Neural,textual%20descriptions%20from%20sequences%20of%20images%20%28e.g.%20videos%29.) by Machine Learning Mastery
 # Papers on CNN LSTM Fundamental
   * [Long-term Recurrent Convolutional Networks for Visual Recognition and Description, 2015.](https://arxiv.org/pdf/1411.4389.pdf)
   * [Show and Tell: A Neural Image Caption Generator, 2015.](https://arxiv.org/pdf/1411.4555.pdf)
