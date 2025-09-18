@@ -5,7 +5,7 @@
 diabetic retinopathy screening using CNN
 This project aims to study on diabetic retinopathy prior screening algorithm using CNN.
   * Input dataset (cropped & augmented RGB) - normal / abnormal
-  * Preprocessing - NLMD & CLAHE
+  * Preprocessing - NLMD & CLAHE & KMMRC
   * Convert RGB into HSV, YCrCb, and LAB
   * Texture feature extraction - GLCM & LBP
   * Model construction - SVM, Decision Tree, Logistic Regression
@@ -16,44 +16,49 @@ This project aims to study on diabetic retinopathy prior screening algorithm usi
  * Colab : [Python Image Processing Tutorial Using OpenCV](https://colab.research.google.com/drive/1zW4fspYezZ4VIdg0B4y00tNdZtS6hiXu?usp=sharing)
  * [Digital Image Processing Basics](https://www.geeksforgeeks.org/digital-image-processing-basics/) source: Geeksforgeeks
 # Code Book
+  1. Preprocessing - NLMD & CLAHE & KMMRC
   * NLMD & CLAHE - [NLMD.ipynb](https://colab.research.google.com/drive/1pVrIlJivOdYuuLe_y5XA3nGy937iMXtO?usp=sharing)<br />
     1.ใช้เทคนิคภาพขาวดำ<br />
       1.1 แยกสีเขียว green channel<br />
       1.2 ลด noise (Non-local Means Denoising)<br />
       1.3 ปรับแสง (Contrast Limited Adaptive Histogram Equalization-CLAHE)<br />
-
-      รันเฉพาะ 01 without_augmentation ทำขั้นตอน 1.1-1.3<br />
-      
-<br />
-KMMRC:
+      รันเฉพาะ 01 without_augmentation ทำขั้นตอน 1.1-1.3
+  * KMMRC:
 https://colab.research.google.com/drive/1BvntkTAO_IpcURfx4Lq-orU5sHTrHVVf?usp=drive_link
-
-DR Classification using LSTM :
-https://colab.research.google.com/drive/1sgRJFBd6GXzFsIKTRJCZMBe4I-nBU9xA?usp=sharing
-
-Convolutional LSTM on Next-Frame VDO Prediction:
-https://colab.research.google.com/drive/1_PUrNfhH_Q43QkFYS3r2-LGVxpPlSLmV?usp=sharing
-
-Image Captioning using LSTM and CNN:
-https://colab.research.google.com/drive/1IgDlnLR0Txl3jeRp2Cg3qWa8NBT3pumt?usp=sharing
-
-## Processing images to get input data
-
-To get GLCM numerical data, 
-https://colab.research.google.com/drive/1ByWVKljy4HbEp_T9pEflwKZzL-EsAVTS?usp=sharing
-
-To get LBP numerical data, 
-https://colab.research.google.com/drive/1SyTaK3Ji4xQ9Wm590JHh3RCX3qaOXtYQ?usp=sharing
-
-(i need to change the code a bit)
-to get zip file of output HSV, LAB and YCrCb images,
+  <br />
+    2. Convert RGB into HSV, YCrCb, and LAB
+      2.1 (i need to change the code a bit)
+          to get zip file of output HSV, LAB and YCrCb images,
 https://colab.research.google.com/drive/1ydFFPJ9CCuEcaELXWaPZGHSX0eDXNIjt?usp=sharing
-
-machine learning models with glcm data 
+  <br />
+    3. Texture feature extraction - GLCM & LBP
+<br />
+    ## Processing images to get input data
+<br />
+    3.1 To get GLCM numerical data, 
+https://colab.research.google.com/drive/1ByWVKljy4HbEp_T9pEflwKZzL-EsAVTS?usp=sharing
+      <br />
+      3.2 To get LBP numerical data, 
+https://colab.research.google.com/drive/1SyTaK3Ji4xQ9Wm590JHh3RCX3qaOXtYQ?usp=sharing
+<br />
+   4. Model construction - SVM, Decision Tree, Logistic Regression
+   <br />
+      4.1 machine learning models with GLCM data 
 https://colab.research.google.com/drive/1czhtNbNIIo3OfP2BZw8FOGR8wJ7e3bVh?usp=sharing
-
-machine learning models with lbp data
+      <br />
+      4.2 machine learning models with LBP data
 https://colab.research.google.com/drive/1CTqA7WlNsH2zcVie0IHCX3IV1J5OnR3I?usp=sharing
+<br />
+   5. Extended experiments on CNN + LSTM
+   <br />
+      5.1 DR Classification using LSTM :
+https://colab.research.google.com/drive/1sgRJFBd6GXzFsIKTRJCZMBe4I-nBU9xA?usp=sharing
+<br />
+      5.2 Convolutional LSTM on Next-Frame VDO Prediction:
+https://colab.research.google.com/drive/1_PUrNfhH_Q43QkFYS3r2-LGVxpPlSLmV?usp=sharing
+      <br />
+      5.3 Image Captioning using LSTM and CNN:
+https://colab.research.google.com/drive/1IgDlnLR0Txl3jeRp2Cg3qWa8NBT3pumt?usp=sharing
 
 <br />
 <img src="https://th.bing.com/th/id/R.b1993d56b9eca21776b32cb3f175b58f?rik=bMtsN7cSPcBJxw&riu=http%3a%2f%2flocnguyen.com.au%2fwp-content%2fuploads%2f2015%2f12%2fPage-Break.png&ehk=zruL%2f8GBWo7gw6rqEZi4hh8B7EToMPDcCof39ly%2bJdg%3d&risl=&pid=ImgRaw&r=0" height="50" />
