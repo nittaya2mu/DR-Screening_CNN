@@ -25,6 +25,18 @@ This project aims to study on diabetic retinopathy prior screening algorithm usi
       รันเฉพาะ 01 without_augmentation ทำขั้นตอน 1.1-1.3<br />
       
 <br />
+KMMRC:
+https://colab.research.google.com/drive/1BvntkTAO_IpcURfx4Lq-orU5sHTrHVVf?usp=drive_link
+
+DR Classification using LSTM :
+https://colab.research.google.com/drive/1sgRJFBd6GXzFsIKTRJCZMBe4I-nBU9xA?usp=sharing
+
+Convolutional LSTM on Next-Frame VDO Prediction:
+https://colab.research.google.com/drive/1_PUrNfhH_Q43QkFYS3r2-LGVxpPlSLmV?usp=sharing
+
+Image Captioning using LSTM and CNN:
+https://colab.research.google.com/drive/1IgDlnLR0Txl3jeRp2Cg3qWa8NBT3pumt?usp=sharing
+
 ## Processing images to get input data
 
 To get GLCM numerical data, 
