@@ -25,6 +25,24 @@ This project aims to study on diabetic retinopathy prior screening algorithm usi
       รันเฉพาะ 01 without_augmentation ทำขั้นตอน 1.1-1.3<br />
       
 <br />
+## Processing images to get input data
+
+To get GLCM numerical data, 
+https://colab.research.google.com/drive/1ByWVKljy4HbEp_T9pEflwKZzL-EsAVTS?usp=sharing
+
+To get LBP numerical data, 
+https://colab.research.google.com/drive/1SyTaK3Ji4xQ9Wm590JHh3RCX3qaOXtYQ?usp=sharing
+
+(i need to change the code a bit)
+to get zip file of output HSV, LAB and YCrCb images,
+https://colab.research.google.com/drive/1ydFFPJ9CCuEcaELXWaPZGHSX0eDXNIjt?usp=sharing
+
+machine learning models with glcm data 
+https://colab.research.google.com/drive/1czhtNbNIIo3OfP2BZw8FOGR8wJ7e3bVh?usp=sharing
+
+machine learning models with lbp data
+https://colab.research.google.com/drive/1CTqA7WlNsH2zcVie0IHCX3IV1J5OnR3I?usp=sharing
+
 <br />
 <img src="https://th.bing.com/th/id/R.b1993d56b9eca21776b32cb3f175b58f?rik=bMtsN7cSPcBJxw&riu=http%3a%2f%2flocnguyen.com.au%2fwp-content%2fuploads%2f2015%2f12%2fPage-Break.png&ehk=zruL%2f8GBWo7gw6rqEZi4hh8B7EToMPDcCof39ly%2bJdg%3d&risl=&pid=ImgRaw&r=0" height="50" />
 <sup>Powered by DR Team, Faculty of Science and Engineering, Kasetsart University, Sakon Nakhon, Thailand</sup><br />
